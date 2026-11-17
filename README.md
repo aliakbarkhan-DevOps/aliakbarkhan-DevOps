@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **DevOps Projects**
 
-- 📫 How to reach me **aliakbarkhankamboh2020@gmail.com**
+- 📫 How to reach me **aliakbarkhandevops@gmail.com**
 
 - 📄 Know about my experiences [https://aliakbarkhandevops.dev/](https://aliakbarkhandevops.dev/)
 
